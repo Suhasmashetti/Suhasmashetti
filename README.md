@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Suhas Mashetti
 
-<!--
-**Suhasmashetti/Suhasmashetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am passionate about software development, open-source, blockchain dev, and learning new technologies.  
+Always eager to share knowledge and explore new fields in tech!
 
-Here are some ideas to get you started:
+## Skills
+- Programming: JavaScript, Typescript, Rust, Java, Solidity
+- Web: HTML, CSS, React, Node.js, Nextjs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Rust
+- Solana
+
+---
+
+Thanks for visiting my profile!
