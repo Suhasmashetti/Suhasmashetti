@@ -1,7 +1,7 @@
 # Hi there, I'm Suhas Mashetti
 
 ## About Me
-I am passionate about software development, open-source, blockchain dev, and learning new technologies.  
+I am a software developer, open-source, blockchain dev, and learning new technologies.  
 Always eager to share knowledge and explore new fields in tech!
 
 ## Skills
