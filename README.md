@@ -1,4 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=Suhasmashetti&label=Profile%20Visits&color=0e75b6&style=flat)
 
 # Hi there, I'm Suhas Mashetti
 
