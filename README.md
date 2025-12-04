@@ -12,6 +12,3 @@ Always eager to share knowledge and explore new fields in tech!
 - Rust
 - Solana
 
----
-
-Thanks for visiting my profile!
