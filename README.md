@@ -2,8 +2,7 @@
 # Hi there, I'm Suhas Mashetti
 
 ## About Me
-I am a software developer, open-source, blockchain dev, and learning new technologies.  
-Always eager to share knowledge and explore new fields in tech!
+Into Solana, crypto, and full-stack dev — basically anything that moves fast and breaks the old finance rules.
 
 ## Skills
 - Programming: JavaScript, Typescript, Rust, Java, Solidity
